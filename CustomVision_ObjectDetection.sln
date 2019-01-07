@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomVision_ObjectDetection", "CustomVision_ObjectDetection\CustomVision_ObjectDetection.csproj", "{EA285DE0-19DB-478E-B272-354DF5D5C14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|ARM.Build.0 = Debug|ARM
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|x64.ActiveCfg = Debug|x64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|x64.Build.0 = Debug|x64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|x64.Deploy.0 = Debug|x64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|x86.ActiveCfg = Debug|x86
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|x86.Build.0 = Debug|x86
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Debug|x86.Deploy.0 = Debug|x86
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|ARM.ActiveCfg = Release|ARM
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|ARM.Build.0 = Release|ARM
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|ARM.Deploy.0 = Release|ARM
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|ARM64.Build.0 = Release|ARM64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|ARM64.Deploy.0 = Release|ARM64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|x64.ActiveCfg = Release|x64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|x64.Build.0 = Release|x64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|x64.Deploy.0 = Release|x64
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|x86.ActiveCfg = Release|x86
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|x86.Build.0 = Release|x86
+		{EA285DE0-19DB-478E-B272-354DF5D5C14E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8CB60C1-79C7-4AC8-9BD3-634E630514AF}
+	EndGlobalSection
+EndGlobal
